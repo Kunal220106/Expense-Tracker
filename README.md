@@ -34,8 +34,6 @@ With a clean design and real-time balance updates, it’s a handy tool for manag
 - **Hosting:** GitHub Pages  
 
 ---
-
-# Open index.html in your browser
 📂 Project Structure
 text
 Copy code
